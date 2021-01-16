@@ -181,6 +181,14 @@
     items: 1
   });
 
+  // feature carousel (uses the Owl Carousel library)
+  $(".feature-carousel").owlCarousel({
+    autoplay: true,
+    dots: true,
+    loop: true,
+    items: 1
+  });
+
   // Init AOS
   function aos_init() {
     AOS.init({

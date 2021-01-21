@@ -11,51 +11,36 @@
 
       <div class="row event-item">
         <div class="col-lg-6">
-          <img src="../assets/img/event-birthday.jpg" class="img-fluid" alt="">
+          <img src="assets/img/event-birthday.jpg" class="img-fluid" alt="">
         </div>
         <div class="col-lg-6 pt-4 pt-lg-0 content">
-          <h3>Birthday Parties</h3>
+          <h3>Parliament Speech</h3>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-            magna aliqua.
-          </p>
-          <p>
-            Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-            velit esse cillum dolore eu fugiat nulla pariatur
+            Hon. 𝗦𝗵𝗮𝗻𝗮𝗸𝗶𝘆𝗮𝗻, Member of Parliament mentioned in his parliament speech about our Co-founder, Shanjeevan and his community innovation project Underwater Glider, in Sinhalese and English language.
           </p>
         </div>
       </div>
 
       <div class="row event-item">
         <div class="col-lg-6">
-          <img src="../assets/img/event-birthday.jpg" class="img-fluid" alt="">
+          <img src="assets/img/event-birthday.jpg" class="img-fluid" alt="">
         </div>
         <div class="col-lg-6 pt-4 pt-lg-0 content">
-          <h3>Private Parties</h3>
+          <h3>Underwater Glider</h3>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-            magna aliqua.
-          </p>
-          <p>
-            Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-            velit esse cillum dolore eu fugiat nulla pariatur
+            Our Co-founder, Shanjeevan is building an Underwater Glider with the help of an existing Open Source project, which drives on the surface of the water. Underwater Glider disturbs the surrounding water very little, allowing for accurate and reliable data recording to protect the blue economy of Sri Lanka.
           </p>
         </div>
       </div>
 
       <div class="row event-item">
         <div class="col-lg-6">
-          <img src="../assets/img/event-birthday.jpg" class="img-fluid" alt="">
+          <img src="assets/img/event-birthday.jpg" class="img-fluid" alt="">
         </div>
         <div class="col-lg-6 pt-4 pt-lg-0 content">
-          <h3>Custom Parties</h3>
+          <h3>Keynote speech</h3>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-            magna aliqua.
-          </p>
-          <p>
-            Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-            velit esse cillum dolore eu fugiat nulla pariatur
+            Our Co-founder, Shanjeevan delivered his first keynote speech abroad on December 19th at StartNext organised by the Brampton Tamil Association Canada. STARTNEXT is a virtual event consisting of workshops, presentations and networking opportunities to boost entrepreneurship among young and experienced business owners.
           </p>
         </div>
       </div>

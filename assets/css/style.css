@@ -503,7 +503,7 @@ h1, h2, h3, h4, h5, h6 {
 # Sections General
 --------------------------------------------------------------*/
 section {
-  padding: 40px 0 40px 0;
+  padding: 60px 0 40px 0;
   overflow: hidden;
 }
 
@@ -793,6 +793,7 @@ padding-top: 100px;
 font-weight: 300;
   font-size: 17px;
   color: #777;
+  line-height: 1.8;
 }
 
 .feature .event-item ul {
@@ -994,4 +995,5 @@ color: #65B5C7;
   color: #777;
   font-weight: 300;
   font-size: 17px;
+  line-height: 1.8;
 }

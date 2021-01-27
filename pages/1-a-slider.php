@@ -12,7 +12,7 @@
             <div class="carousel-background"><img src="../assets\img\37130.jpg" alt=""></div>
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2 data-aos="fade-up">Ocean Biome</h2>
+                <h2 data-aos="fade-up">OceanBiome</h2>
               </div>
             </div>
           </div>
